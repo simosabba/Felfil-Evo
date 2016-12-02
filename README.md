@@ -5,9 +5,10 @@ In this folder you will find all you need to replicate, modify and implement Fel
 
 Contents of the folder:
 
-- 2D-Drawings
 - 3D-Model
 - BOM
 - Electronics
+- FEBK - Basic Kit
 - License
 
+Last update: 18/07/2016
